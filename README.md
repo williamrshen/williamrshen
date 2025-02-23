@@ -1,3 +1,5 @@
+![yosemite falls rainbow! check it out](https://i.ytimg.com/vi/oTjiWspRCWQ/maxresdefault.jpg)
+
 ## Hi there, I'm William Shen! 👋  
 
 🚀 **About Me**  
