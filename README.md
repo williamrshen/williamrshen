@@ -19,7 +19,7 @@ I'm a **2nd Year Mathematics Student at the University of Waterloo** with a pass
 
 📬 **Get in Touch**  
 - 🌍 [Portfolio Website](https://williamrshen.github.io/website/)
-- ✉️ Email: [w22shen@uwaterloo.ca](mailto:w22shen@uwaterloo.ca)  
+- ✉️ [w22shen@uwaterloo.ca](mailto:w22shen@uwaterloo.ca)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/williamrshen/)
 
 🎲 **Fun Facts**  
