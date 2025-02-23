@@ -12,15 +12,15 @@ I'm a **2nd Year Mathematics Student at the University of Waterloo** with a pass
 - A **Library Catalog Web App** using React and Firebase  
 
 🎯 **Interests**  
+- Full-Stack Web Development 🌐  
 - Game Development 🎮  
 - Machine Learning 🤖  
-- Full-Stack Web Development 🌐  
 - Algorithmic Problem Solving 🔢  
 
 📬 **Get in Touch**  
 - 🌍 [Portfolio Website](https://williamrshen.github.io/website/)
 - ✉️ Email: [w22shen@uwaterloo.ca](mailto:w22shen@uwaterloo.ca)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/williamrshen/) *(Replace with your actual LinkedIn link)*  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/williamrshen/)
 
 🎲 **Fun Facts**  
 - I enjoy **solving Rubik’s cubes** (4.89 3x3 PB) and playing **Tetr.io** in my free time!  
