@@ -11,8 +11,8 @@
 
 🛠 **Tech Stack**  
 - **Languages:** Python, JavaScript, TypeScript, C++, Java  
-- **Frameworks & Tools:** React (Vite), Firebase, Unity (C#), Git/GitHub  
-- **Databases:** Firebase Firestore, MySQL  
+- **Frameworks & Tools:** React (Vite), Firebase, Unity (C#), Git/GitHub, Selenium, BeautifulSoup
+- **Databases:** Firebase, MySQL  
 
 🔍 **What I'm Working On**  
 - A **Library Catalog Web App** using React and Firebase
